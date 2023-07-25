@@ -61,7 +61,7 @@
         icon: "error",
         position: "center",
         title: "เกิดข้อผิดพลาดขึ้น",
-        html: "คุณต้องการเริ่มโปรแกรมจับเวลาใหม่ไหมใหม่ไหม?",
+        html: "คุณต้องการเริ่มโปรแกรมจับเวลาใหม่ไหม?",
         showConfirmButton:true,
         showDenyButton:true,
         confirmButtonText:'ต้องการ',
@@ -187,7 +187,7 @@
   >
   <button
     class="w-36 rounded-md bg-orange-500 p-3 text-lg font-bold text-white shadow-lg hover:bg-orange-700 ms-3"
-    on:click={handleSave}><i class="ri-save-3-line"></i> บันทึกเวลา</button
+    on:click={handleSave}><i class="ri-save-3-line"></i> บันทึก</button
   >
   <button
     class="w-36 ms-3 rounded-md bg-sky-500/100 p-3 text-lg font-bold text-white shadow-lg hover:bg-sky-600"
